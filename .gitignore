@@ -1,0 +1,6 @@
+node_modules
+build
+build/contracts
+.DS_Store
+migrations/dist
+.vscode
